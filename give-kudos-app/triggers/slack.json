@@ -1,0 +1,5 @@
+{
+  "config": {
+    "trigger-paths": ["triggers/*.ts"]
+  }
+}

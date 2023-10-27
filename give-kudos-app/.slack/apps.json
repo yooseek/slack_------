@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "TG6RFQ7SR": {
+      "app_id": "A062VK4RX46",
+      "IsDev": false,
+      "team_domain": "projectwithtech",
+      "team_id": "TG6RFQ7SR"
+    }
+  },
+  "default": "projectwithtech"
+}
